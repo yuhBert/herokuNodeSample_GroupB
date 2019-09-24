@@ -1,0 +1,29 @@
+{
+  "name": "herokunodesample_groupb",
+  "version": "1.0.0",
+  "description": "sample node app deployed to Heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuhBert/herokuNodeSample_GroupB.git"
+  },
+  "keywords": [
+    "heroku",
+    "node"
+  ],
+  "author": "Yubert Mariscal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuhBert/herokuNodeSample_GroupB/issues"
+  },
+  "homepage": "https://github.com/yuhBert/herokuNodeSample_GroupB#readme",
+  "engines": {
+    "node": "10.16"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
